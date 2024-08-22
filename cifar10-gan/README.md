@@ -1,5 +1,5 @@
 <div align="center">
-  <p>Aug 18, 2024</p>
+  <p>Aug 21, 2024</p>
   <h1>CIFAR-10</h1>
   <p>
     <img
