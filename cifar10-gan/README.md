@@ -207,10 +207,10 @@ The following images showcase the progress of the GAN's image generation at diff
 
 | **Epoch 10**                                                                                                | **Epoch 100**                                                                                                |
 | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| ![Epoch: 10](/cifar10/images/10.png) | ![Epoch: 100](/cifar10/images/100.png) |
+| ![Epoch: 10](/cifar10-gan/images/10.png) | ![Epoch: 100](/cifar10-gan/images/100.png) |
 
 | **Epoch 200**                                                                                                | **Epoch 300**                                                                                                |
 | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
-| ![Epoch: 200](/cifar10/images/200.png) | ![Epoch: 300](/cifar10/images/300.png) |
+| ![Epoch: 200](/cifar10-gan/images/200.png) | ![Epoch: 300](/cifar10-gan/images/300.png) |
 
 [^1]: [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434)
